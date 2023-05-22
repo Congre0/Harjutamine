@@ -1,1 +1,3 @@
 GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab teil ja teistel kõikjal projektidega koos töötada. Githubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted.
+Ei tea kus ja kuidas saan edaspidi Githubi kasutada. Pärast selle peale mõtlen.
+October 19, 2007 Githubi asutasid: Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon. April 2008 on päev, millal see sai kättesaadavaks.
